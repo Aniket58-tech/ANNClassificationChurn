@@ -6,4 +6,3 @@ tensorboard>=2.20.0
 matplotlib>=3.8.0
 streamlit>=1.32.0
 scikeras>=0.13.0
-protobuf<=3.20.3   # optional safeguard
